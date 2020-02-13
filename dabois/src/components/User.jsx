@@ -9,6 +9,13 @@ border-radius: 25px;
 width: 40%;
 padding: 2%;
 margin: 1em auto;
+background-color: white;
+
+.name {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 1.4em;
+}
 
 `
 

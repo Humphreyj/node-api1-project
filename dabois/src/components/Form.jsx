@@ -6,7 +6,7 @@ const Div = styled.div`
 form {
     display: flex;
     flex-direction: column;
-    width: 20%;
+    width: 30%;
     margin: 0 auto;
     
     input {
